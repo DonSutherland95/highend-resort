@@ -1,11 +1,10 @@
 {
+  "homepage": "https://donsutherland95.github.io/highend-resort",
   "name": "resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donsutherland95.github.io/highend-resort/",
   "dependencies": {
     "contentful": "^7.5.0",
-    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.6.1",
@@ -35,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
